@@ -10,7 +10,7 @@ The frontend is built using Streamlit and the model is trained using TensorFlow.
 (Add your Streamlit link here after deployment)
 
 Example:
-https://yourapp.streamlit.app
+[https://yourapp.streamlit.app](https://cat-v-dog-classifier-ahmad.streamlit.app/)
 
 ---
 
